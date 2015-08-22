@@ -1,0 +1,27 @@
+{
+  "name": "sarcasmbot",
+  "version": "0.0.1",
+  "description": "SarcasmBot will let you know where the sarcasm is at!",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eytanschulman/SarcasmBot.git"
+  },
+  "keywords": [
+    "sarcasm",
+    "bot",
+    "telegram"
+  ],
+  "author": "Eytan Schulman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eytanschulman/SarcasmBot/issues"
+  },
+  "homepage": "https://github.com/eytanschulman/SarcasmBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.12.1"
+  }
+}
